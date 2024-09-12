@@ -1,0 +1,7 @@
+Rules of Big O notation
+
+	Rule 1: Focus on Scalability
+	Rule 2: Considering Worst Case Scenario
+	Rule 3: Remove all possible constants
+	Rule 4: Consider different variable for different inputs
+	Rule 5: Remove all non-dominants
